@@ -1,2 +1,4 @@
 # review
-review c++ programming language
+Purpose
+  review c++ programming language
+  focus on the concept of class
